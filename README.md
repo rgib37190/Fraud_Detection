@@ -18,5 +18,50 @@ Our team "三峽地震研究所" won **3%** in the game
 
 以下頁面內所有說明為「線上對決–模型準度爭霸戰」之競賽細節，「正面交鋒–創意做法擂台戰」之進行內容、方式與報名連結，敬請參賽者密切注意主辦單位相關公告與通知。
 
+##特徵說明
+acqic : 收單行代碼
+
+bacno : 歸戶帳號
+
+cano : 交易帳號
+
+conam : 交易金額-台幣(經過轉換)
+
+contp : 交易類別
+
+csmcu : 消費地幣別
+
+ecfg : 網路交易註記
+
+etymd : 交易型態
+
+flbmk : Fallback註記
+
+flg_3dsmk : 3DS交易註記
+
+hcefg : 支付型態
+
+insfg : 分期交易註記
+
+iterm : 分期期數
+
+locdt : 授權日期
+
+loctm : 授權時間
+
+mcc : 商品代號
+
+mchno : 特店代號
+
+ovrlt : 超額註記碼
+
+scity : 消費城市
+
+stocn : 消費地國別
+
+stscd : 狀態碼
+
+txkey : 交易序號
+
 ## Metric
 F1_score
