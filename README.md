@@ -51,3 +51,11 @@ F1_score
 
 ## PPT
 ![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%873.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%874.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%875.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%876.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%877.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%878.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%879.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%880.JPG)
+![image](https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%881.JPG)
