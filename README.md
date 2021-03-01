@@ -48,3 +48,6 @@ fraud_ind	|盜刷註記	|是否有盜刷(應變數)
 
 ## Metric
 F1_score
+
+## PPT
+!image(https://github.com/rgib37190/TBrain-E-Sun-Fraud-Detection/blob/main/ppt/%E6%8A%95%E5%BD%B1%E7%89%873.JPG)
